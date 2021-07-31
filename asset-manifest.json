@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/irax/static/css/main.a617e044.chunk.css",
+    "main.js": "/irax/static/js/main.c437a269.chunk.js",
+    "main.js.map": "/irax/static/js/main.c437a269.chunk.js.map",
+    "runtime-main.js": "/irax/static/js/runtime-main.04d8e2a0.js",
+    "runtime-main.js.map": "/irax/static/js/runtime-main.04d8e2a0.js.map",
+    "static/js/2.4d50bdaa.chunk.js": "/irax/static/js/2.4d50bdaa.chunk.js",
+    "static/js/2.4d50bdaa.chunk.js.map": "/irax/static/js/2.4d50bdaa.chunk.js.map",
+    "static/js/3.ab6d46fa.chunk.js": "/irax/static/js/3.ab6d46fa.chunk.js",
+    "static/js/3.ab6d46fa.chunk.js.map": "/irax/static/js/3.ab6d46fa.chunk.js.map",
+    "index.html": "/irax/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/irax/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4d50bdaa.chunk.js.LICENSE.txt": "/irax/static/js/2.4d50bdaa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/irax/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04d8e2a0.js",
+    "static/js/2.4d50bdaa.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c437a269.chunk.js"
+  ]
+}
